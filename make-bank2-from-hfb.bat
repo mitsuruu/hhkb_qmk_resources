@@ -1,0 +1,1 @@
+wsl bash -c "dd bs=1 skip=4 count=65536 if=/mnt/c/Users/Chi/source/repos/qmk_firmware/keyboards/hhkb/classic/resources/firmware/HHKB410_FW_A429.hfb > /mnt/c/Users/Chi/source/repos/qmk_firmware/keyboards/hhkb/classic/resources/firmware/firm.bin"
