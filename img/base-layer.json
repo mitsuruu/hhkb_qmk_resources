@@ -1,0 +1,5 @@
+[{y:0,c:"#a2a8b8",f:4},"\n\n\n\n\n\nEsc",{c:"#cccccc",f:5},"!\n1","\"\n2","£\n3","$\n4","%\n5","^\n6","&\n7","*\n8","(\n9",")\n0","_\n-","+\n=","|\n\\",{f:4},"~\n`"],
+[{c:"#a2a8b8",w:1.5},"\n\n\n\n\n\nTab",{c:"#cccccc",f:5},"Q","W","E","R","T","Y","U",{a:0},"I",{a:4},"O","P","{\n[","}\n]",{c:"#a2a8b8",a:0,w:1.5},"\n\n\n\n\n\nDelete\n"],
+[{a:4,f:4,w:1.75},"\n\n\n\n\n\nControl",{c:"#cccccc",f:5},"A","S","D","F","G","H","J","K","L",":\n;","@\n'",{c:"#a2a8b8",a:0,w:2.25},"\n\n\n\n\n\nReturn"],
+[{a:4,f:4,w:2.25},"\n\n\n\n\n\nShift",{c:"#cccccc",f:5},"Z","X","C","V","B","N","M","<\n,",">\n.","?\n/",{c:"#a2a8b8",w:1.75},"\n\n\n\n\n\nShift",{f:4},"\n\n\n\n\n\nFn"],
+[{x:1.55},"\n\n\n\n\n\nWin",{w:1.5},"\n\n\n\n\n\nAlt (LM)",{c:"#cccccc",f:5,w:6},"",{c:"#a2a8b8",a:0,f:4,w:1.5},"\n\n\n\n\n\nAlt",{a:4},"\n\n\n\n\n\nWin"]
